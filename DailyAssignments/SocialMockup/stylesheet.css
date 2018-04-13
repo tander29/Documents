@@ -111,12 +111,12 @@ padding-left: 5pt;
 }
 
 #left1 {
-width: 300px;
+width: 328px;
 height: 100px;
 background-color: green;
 position:relative;
-margin-bottom: 5pt auto;
-margin-left: 10pt;
+margin-bottom: 10pt auto;
+
 border: black solid 1pt
 
 }
@@ -132,16 +132,16 @@ margin: 10pt;
 
 
 #left2 {
-    width: 300px;
+    width: 328px;
     height: 400px;
     background-color: green;
     position:relative;
-    margin: 10pt;
+    margin-top: 10pt;
     border: black solid 1pt;
     }
 
     #right1 {
-        width:  500px;
+        width:  512px;
         height: 300px;
         background-color: rgb(36, 13, 168);
         position:relative;
@@ -175,7 +175,7 @@ margin: 10pt;
 }
 
         #right2 {
-            width:  500px;
+            width:  512px;
             height: 100px;
             background-color: rgb(36, 13, 168);
             position:relative;
